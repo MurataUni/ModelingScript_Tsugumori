@@ -1,0 +1,4 @@
+*.stl
+*.stl_temp
+
+__pycache__/
